@@ -9,6 +9,7 @@ public class Main {
          */
         System.out.println(5.0);
         System.out.println(Math.sqrt(Math.pow(2,10)) + 1);
+        System.out.println("different");
 
     }
 }
